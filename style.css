@@ -45,6 +45,9 @@ p {
   line-height: 24px;
   margin-bottom: 20px;
 }
+button:hover {
+  color: darkgray;
+}
 /*header*/
 header {
   /*height: @header-height;*/
